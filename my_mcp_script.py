@@ -16,8 +16,8 @@ postgres_tools = PostgresTools(
     db_name='planmans',
     user='planmans',
     password='Ls4LEZ#c!u',
-    host='localhost',
-    port='5433'
+    host='216.225.193.213',
+    port='5432'
 )
 
 # Create the agent
